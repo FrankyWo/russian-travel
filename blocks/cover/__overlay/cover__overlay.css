@@ -1,6 +1,10 @@
 .cover__overlay {
     background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
+    background-position: center;
+    width: 100%;
+    max-width: 1184px;
+    min-height: 740px;
     margin: 0 auto;
     padding: 0;
     display: flex;
@@ -9,10 +13,6 @@
     color: #fff;
     text-decoration: none;
     position: relative;
-    width: 100%;
-    max-width: 1184px;
-    min-height: 740px;
-    background-position: center;
 }
 
 .cover__overlay::before {
