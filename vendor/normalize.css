@@ -11,6 +11,8 @@
  html {
     line-height: 1.15; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
+    max-width: 100%;
+    overflow-x: hidden;
   }
   
   /* Sections
@@ -22,6 +24,8 @@
   
   body {
     margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
   }
   
   /**

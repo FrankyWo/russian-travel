@@ -5,7 +5,7 @@
   line-height: 18px;
   text-decoration-line: none;
   color: #FFF;
-  transition: .5s ease-in;
+  transition: .5s ease-in-out;
 }
 
 .footer__link:hover {
