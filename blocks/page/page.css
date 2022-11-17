@@ -12,3 +12,7 @@
     font-family: "Inter", "Arial ", sans-serif;
     box-sizing: border-box;
 }
+
+.page * {
+    transition: all .5s ease-in-out;
+  }
