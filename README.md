@@ -21,7 +21,7 @@
 - #### Сделать карту интерактивной
 - #### Анимированный логотип в шапке
 - #### Добавить попап увеличенного просмотра фото с помощью JavaScript
-## __[Ссылка на проект&rarr;](https://github.com/FrankyWo/russian-travel.git)__
+## __[Ссылка на проект&rarr;](https://frankywo.github.io/russian-travel/)__
 ---
 ## [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0&t=SZrSwEspOgAB7eHj-0)
 ---
