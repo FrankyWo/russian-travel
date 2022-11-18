@@ -24,20 +24,19 @@
   }
 
   .place:not(:first-of-type) {
-    margin-top: 72px;
+    margin-top: 70px;
   }
 }
 
-@media screen and (max-width: 665px) {
+@media screen and (max-width: 650px) {
   .place {
-    display: flex;
-    flex-direction: column;
+    grid-template-columns: repeat(1, 1fr);
     gap: 32px;
   }
 }
 
 @media screen and (max-width:320px) {
   .place:not(:first-of-type) {
-    margin-top: 50px;
+    margin-top: 52px;
   }
 }

@@ -2,7 +2,8 @@
   max-width: 1184px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  margin: 0 48px 92px;
+  grid-auto-rows: auto;
+  margin: 92px 48px;
   padding: 0;
   gap: 16px;
 }
@@ -19,10 +20,8 @@
   .photo-grid {
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     max-width: 720px;
-    margin-left: 24px;
-    margin-right: 24px;
-    margin-bottom: 88px;
-    gap: 12px;
+    margin: 88px 24px;
+    gap: 16px;
   }
 }
 
@@ -32,7 +31,7 @@
     max-width: 100%;
     margin-left: 16px;
     margin-right: 16px;
-    margin-bottom: 64px;
-    gap: 12px;
+    margin-bottom: 62px;
+    gap: 10px;
   }
 }
