@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 320px) {
   .cover__title {
-    margin-top: 35px;
-    margin-bottom: 16px;
+    margin: 0;
+    padding: 33px 16px 16px;
   }
 }

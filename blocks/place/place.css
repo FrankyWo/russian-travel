@@ -7,12 +7,13 @@
 }
 
 .place:not(:first-of-type) {
-  margin-top: 80px;
+  padding-top: 80px;
 }
 
 @media screen and (max-width:1024px) {
   .place {
     grid-template-columns: minmax(340px, 440px) minmax(352px, 456px);
+    max-width: 928px;
     gap: 48px 32px;
   }
 }
@@ -24,7 +25,7 @@
   }
 
   .place:not(:first-of-type) {
-    margin-top: 70px;
+    padding-top: 73px;
   }
 }
 
@@ -37,6 +38,6 @@
 
 @media screen and (max-width:320px) {
   .place:not(:first-of-type) {
-    margin-top: 52px;
+    padding-top: 54px;
   }
 }
